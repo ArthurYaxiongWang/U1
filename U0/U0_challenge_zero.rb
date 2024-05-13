@@ -1,7 +1,7 @@
 # Name: Arthur (Yaxiong Wang)
 
 # Question 1:
-puts "test  "
+
 sub_total = 5.00
 
 GST_RATE = 0.05
