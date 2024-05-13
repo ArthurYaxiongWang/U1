@@ -4,7 +4,7 @@
 # sagan array along with some string interpolation.
 #
 # We are a way for the cosmos to know itself.
-puts "test"9
+puts "test  "
 
 carl  = {
           :toast => 'cosmos',
